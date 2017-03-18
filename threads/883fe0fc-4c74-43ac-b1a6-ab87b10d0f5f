@@ -5,6 +5,9 @@ children:
 - id: 9b4d155a-bc07-4cff-a45e-856c06d35d5a
 - id: 79c87902-2c32-421c-ac73-368f93be545f
 - id: dc50f7f1-895e-4693-a27b-ac8c072ac5a2
+- id: dfc8ed65-d896-45f8-b771-549eeb190ca5
+- id: 4d6ba8b0-fe5d-4b52-a073-6481a263cd1c
+- id: e1ee5b6e-509d-4e03-8f4d-34f58e9dcc0d
 subject: core
 id: 883fe0fc-4c74-43ac-b1a6-ab87b10d0f5f
 completed: false

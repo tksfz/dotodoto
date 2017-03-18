@@ -3,8 +3,6 @@ parent:
 children:
 - id: 2cd7afbc-ad81-4b78-bc26-0b9b37491650
 - id: 27628023-2a60-481d-b8ab-f12a23ae3713
-- id: e1ee5b6e-509d-4e03-8f4d-34f58e9dcc0d
-- id: 4d6ba8b0-fe5d-4b52-a073-6481a263cd1c
 - id: 51c2e40d-8acc-4185-9bbc-0a9bb3734480
 - id: 66859fc7-d603-4597-8ca4-dd0804d38769
 - id: 5bd12400-e267-4d60-a373-61bce126bd83

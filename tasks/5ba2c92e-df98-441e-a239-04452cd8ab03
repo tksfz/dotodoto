@@ -2,4 +2,5 @@ children: []
 subject: complete command for events
 id: 5ba2c92e-df98-441e-a239-04452cd8ab03
 completed: true
-target: null
+target:
+  id: 538d48ae-7bd9-497b-ae78-4fb63868a357

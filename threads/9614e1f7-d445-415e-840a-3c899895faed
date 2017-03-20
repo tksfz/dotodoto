@@ -8,6 +8,10 @@ children:
 - id: 5bd12400-e267-4d60-a373-61bce126bd83
 - id: 23cb2ed2-2747-468a-960e-70794f63d97d
 - id: dfff42e8-df08-4e37-8aeb-7b3a5abb2b15
+- id: a1f7cc1e-c186-4da2-992f-535a757e88fd
+- id: ea59c09a-3348-40e2-93fb-29b3c9e0ea5a
+- id: 366f1c9d-17ee-421e-928a-773ddfe9525a
+- id: 40dc8236-ae8f-4c13-be1e-9277c44a1ca7
 subject: ideas
 id: 9614e1f7-d445-415e-840a-3c899895faed
 completed: false

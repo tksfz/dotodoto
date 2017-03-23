@@ -1,4 +1,5 @@
-children: []
+children:
+- id: 1cdeeeb6-a6ff-4f13-b1bf-58fd67808c06
 subject: help cmds
 id: 4249cb73-ce92-4223-a36a-59e612a990fe
 completed: false

@@ -1,5 +1,7 @@
 children:
 - id: 1cdeeeb6-a6ff-4f13-b1bf-58fd67808c06
+- id: 9c79b19a-41c4-4c0f-8829-e2e178056025
+- id: 2746399a-7d47-4e4e-b8bf-3033f2fe53cc
 subject: help cmds
 id: 4249cb73-ce92-4223-a36a-59e612a990fe
 completed: false

@@ -1,0 +1,5 @@
+children: []
+subject: add metadata about nodes such as 1) created by 2) assignee 3) current state (in-progress, etc.) 4) date created, etc.
+id: 7abf3005-39f0-48ff-b6ac-06da345ea853
+completed: false
+target: null

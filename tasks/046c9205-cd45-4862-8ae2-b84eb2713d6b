@@ -2,4 +2,5 @@ children: []
 subject: hide completed events in event thread
 id: 046c9205-cd45-4862-8ae2-b84eb2713d6b
 completed: false
-target: null
+target:
+  id: 53d92d01-a79f-4e72-a976-f1afcc0caae0

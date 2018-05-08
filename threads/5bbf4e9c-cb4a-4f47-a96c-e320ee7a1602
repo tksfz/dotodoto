@@ -3,6 +3,11 @@ parent:
 children:
 - id: f2d4cfb5-cd9e-4608-b156-95ffd64acba2
 - id: dbd38c1b-3def-4ab6-8ee5-b0a84a7dc6d6
+- id: e2a7924d-1294-4243-85a9-351bf0dcba8f
+- id: f75d0571-ac9d-411b-99ed-a7189fbd1afa
+- id: 34be4aeb-cc61-4703-835a-8a07616b7784
+- id: 7f958540-8223-44ca-a9e8-44d314166084
+- id: b647846a-f4ad-401d-8602-fa2b2beb1492
 subject: build engineering
 id: 5bbf4e9c-cb4a-4f47-a96c-e320ee7a1602
 completed: false

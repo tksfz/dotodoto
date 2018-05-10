@@ -3,5 +3,5 @@ parent:
 children: []
 subject: accepted
 id: 580e6c49-fe1e-42bb-8616-bc3f1bafe32a
-completed: false
+completed: true
 type: task

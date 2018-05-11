@@ -7,5 +7,5 @@ children:
 - id: 25cc9f74-4d5e-487f-a420-94be3d099159
 subject: git backend
 id: cd705d4a-1ae0-43c9-95bb-a1d252e3e35d
-completed: false
+completed: true
 type: task

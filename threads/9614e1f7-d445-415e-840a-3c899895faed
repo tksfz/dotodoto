@@ -1,7 +1,6 @@
 parent:
   id: f1a7fe8d-14b7-4029-887b-97c85f36b3d2
 children:
-- id: c911c106-d90c-487b-960d-0c8ccf55b11a
 - id: d7066e3c-ae75-4b78-bca5-50bb5df4e299
 - id: f0d5d98d-e95a-410c-b938-a11d60ec35de
 subject: ideas

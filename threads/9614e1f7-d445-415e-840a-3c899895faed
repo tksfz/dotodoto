@@ -4,5 +4,5 @@ children:
 - id: d7066e3c-ae75-4b78-bca5-50bb5df4e299
 subject: ideas
 id: 9614e1f7-d445-415e-840a-3c899895faed
-completed: false
+completed: true
 type: task

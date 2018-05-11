@@ -1,6 +1,7 @@
 children:
 - id: 66859fc7-d603-4597-8ca4-dd0804d38769
 - id: 5bd12400-e267-4d60-a373-61bce126bd83
+- id: 0e4568c9-6f39-49b4-834d-cc710cf9c0c2
 subject: hide completed stuff
 id: c911c106-d90c-487b-960d-0c8ccf55b11a
 completed: false

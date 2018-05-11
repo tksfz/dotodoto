@@ -2,4 +2,5 @@ children: []
 subject: log command - shows (unsynced) history
 id: 90f1b077-2a17-43ed-9530-07d800e826cb
 completed: false
-target: null
+target:
+  id: 9c29364e-7d94-41f6-b52d-5b1fa7f46ade

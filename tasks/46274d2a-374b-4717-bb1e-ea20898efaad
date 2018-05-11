@@ -2,4 +2,5 @@ children: []
 subject: commands should have some kind of output
 id: 46274d2a-374b-4717-bb1e-ea20898efaad
 completed: false
-target: null
+target:
+  id: 78916653-7c2c-487d-be4c-90ccaa94a863

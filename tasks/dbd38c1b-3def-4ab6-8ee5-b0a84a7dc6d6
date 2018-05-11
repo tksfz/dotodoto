@@ -2,4 +2,5 @@ children: []
 subject: get perms to publish to a public repo (sonatype?)
 id: dbd38c1b-3def-4ab6-8ee5-b0a84a7dc6d6
 completed: false
-target: null
+target:
+  id: 9c29364e-7d94-41f6-b52d-5b1fa7f46ade

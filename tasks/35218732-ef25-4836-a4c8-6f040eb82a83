@@ -1,5 +1,5 @@
 children: []
-subject: on sync render ls into a README.md
+subject: generate a README.md using ls
 id: 35218732-ef25-4836-a4c8-6f040eb82a83
 completed: false
 target: null

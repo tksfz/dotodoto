@@ -4,6 +4,6 @@ children:
 - id: c2ceddc4-4d8a-48b6-b062-197c14a96ac3
 subject: focus excludes
 id: b160e0c6-0b15-4082-8679-c20b5e1b3f8a
-completed: false
+completed: true
 target:
   id: 2dae101f-8102-49c2-9b58-3cf18153d290

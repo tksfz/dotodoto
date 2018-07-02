@@ -1,6 +1,6 @@
 children: []
 subject: change status command cli syntax
 id: b5b99663-4551-42e8-acad-68e9f89081ed
-completed: false
+completed: true
 target:
   id: 78916653-7c2c-487d-be4c-90ccaa94a863

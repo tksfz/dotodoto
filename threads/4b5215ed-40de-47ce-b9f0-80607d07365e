@@ -1,8 +1,15 @@
 parent:
-  id: f1a7fe8d-14b7-4029-887b-97c85f36b3d2
+  id: |-
+    f1a7fe8d-14b7-4029-887b-97c85f36b3d2
 children:
-- id: 3c4c1e47-b21d-4367-95a7-beae923f08af
-subject: landing page
-id: 4b5215ed-40de-47ce-b9f0-80607d07365e
+- id: |-
+    3c4c1e47-b21d-4367-95a7-beae923f08af
+- id: |-
+    70b9b5a3-a981-4321-83c2-54f1f0e487f1
+subject: |-
+  landing page
+id: |-
+  4b5215ed-40de-47ce-b9f0-80607d07365e
 completed: false
-type: task
+type: |-
+  task

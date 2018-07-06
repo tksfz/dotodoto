@@ -1,13 +1,25 @@
 parent:
-  id: f1a7fe8d-14b7-4029-887b-97c85f36b3d2
+  id: |-
+    f1a7fe8d-14b7-4029-887b-97c85f36b3d2
 children:
-- id: f2d4cfb5-cd9e-4608-b156-95ffd64acba2
-- id: dbd38c1b-3def-4ab6-8ee5-b0a84a7dc6d6
-- id: e2a7924d-1294-4243-85a9-351bf0dcba8f
-- id: 94f5e619-7d1a-448d-b8d6-538b657a320f
-- id: 0e1b4765-5b93-46c3-b0c8-5a1c2dd6afe0
-- id: cf67fe81-977a-48fc-b15d-94929a5e9d19
-subject: build engineering
-id: 5bbf4e9c-cb4a-4f47-a96c-e320ee7a1602
+- id: |-
+    f2d4cfb5-cd9e-4608-b156-95ffd64acba2
+- id: |-
+    dbd38c1b-3def-4ab6-8ee5-b0a84a7dc6d6
+- id: |-
+    e2a7924d-1294-4243-85a9-351bf0dcba8f
+- id: |-
+    94f5e619-7d1a-448d-b8d6-538b657a320f
+- id: |-
+    0e1b4765-5b93-46c3-b0c8-5a1c2dd6afe0
+- id: |-
+    cf67fe81-977a-48fc-b15d-94929a5e9d19
+- id: |-
+    fb5835d0-7171-469a-85aa-f46c55b54230
+subject: |-
+  build engineering
+id: |-
+  5bbf4e9c-cb4a-4f47-a96c-e320ee7a1602
 completed: false
-type: task
+type: |-
+  task
